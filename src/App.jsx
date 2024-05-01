@@ -1,4 +1,4 @@
-import Quiz from "./components/Quiz";
+import Quiz from "./components/pages/Quiz";
 import { jsQuizz } from "./data/constants";
 const App = () => {
   return (
